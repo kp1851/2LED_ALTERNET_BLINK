@@ -1,9 +1,3 @@
-/*
- * 2LED_ALTERNET_BLINK.c
- * Attiny10/13/25/45/85
- * Created: 09/06/2023 20:35:17
- * Author : kailash
- */ 
 
 //Attiny10/13/25/45/85
 
