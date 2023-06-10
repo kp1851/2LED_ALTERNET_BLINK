@@ -2,7 +2,7 @@
 //Attiny10/13/25/45/85
 
 
-#define F_CPU 1000000UL					// 1MHz
+#define F_CPU 1000000UL				// 1MHz
 
 #include <avr/io.h>
 #include <util/delay.h>
