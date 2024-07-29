@@ -1,0 +1,2 @@
+# 2LED_ALTERNET_BLINK
+ 2LED_ALTERNET_BLINK. Code for all Attiny
